@@ -1,0 +1,40 @@
+MATHÉMATIQUES 3AM — VERSION INSTALLABLE (PWA)
+==============================================
+
+Contenu du dossier
+  index.html               l'application (identique à la version « un seul fichier », plus l'installation)
+  manifest.webmanifest     nom, icônes, couleurs : permet l'icône sur l'écran d'accueil
+  sw.js                    service worker : garde l'application dans le téléphone pour un usage hors ligne
+  icon-192.png, icon-512.png, icon-maskable-512.png, apple-touch-icon.png   icônes
+  LICENCE.txt              conditions d'utilisation (tous droits réservés)
+  README.md                page d'accueil du dépôt GitHub (description + droits d'auteur)
+
+IMPORTANT : l'installation et le fonctionnement hors ligne ne marchent que si le dossier est servi
+par un site en HTTPS (le service worker n'est disponible que dans un « contexte sécurisé »).
+Ouvert directement depuis le téléphone (fichier local), index.html fonctionne normalement mais sans installation.
+
+1) Héberger gratuitement avec GitHub Pages
+   - Créer un compte sur github.com, puis un nouveau dépôt public (ex. : math3am).
+   - « Add file » → « Upload files » : déposer TOUS les fichiers de ce dossier (pas le dossier lui-même).
+   - Settings → Pages → Source : « Deploy from a branch », branche « main », dossier « / (root) » → Save.
+   - La publication peut prendre jusqu'à 10 minutes ; l'adresse s'affiche ensuite dans Settings → Pages :
+     https://VOTRE-NOM.github.io/math3am/  (cocher « Enforce HTTPS » si la case est proposée).
+
+2) Ou sur le site de l'établissement : déposer tous les fichiers dans un même dossier accessible en https.
+
+3) Installer sur les appareils des élèves
+   - Android (Chrome) : ouvrir l'adresse, puis menu ⋮ → « Installer l'application » / « Ajouter à l'écran d'accueil ».
+   - iPhone / iPad (Safari) : ouvrir l'adresse, bouton Partager → « Sur l'écran d'accueil ».
+   - PC (Chrome ou Edge) : icône d'installation dans la barre d'adresse.
+   Après la première ouverture avec connexion, l'application fonctionne sans internet.
+
+4) Publier une mise à jour
+   - Remplacer index.html par la nouvelle version,
+   - ouvrir sw.js et changer la valeur de V (ex. : math3am-2026-11-01),
+   - à la prochaine ouverture avec connexion, l'application se met à jour et affiche un message.
+
+Les progrès des élèves (étoiles, carnet d'erreurs, badges) restent enregistrés dans chaque appareil ;
+ils ne sont envoyés nulle part. Pour changer d'appareil : page « تقدّمي » → « حفظ تقدّمي ونقله ».
+
+Droits d'auteur : © 2026, tous droits réservés à l'auteur de l'application — voir LICENCE.txt.
+Ne pas choisir de licence libre sur GitHub (laisser « No license »).

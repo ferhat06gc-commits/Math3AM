@@ -1,0 +1,46 @@
+LICENCE — TOUS DROITS RÉSERVÉS
+==============================
+
+Application « الرياضيات — السنة الثالثة من التعليم المتوسط » (Mathématiques 3AM)
+Copyright © 2026 — l'auteur de l'application, titulaire du compte GitHub qui publie ce dépôt.
+Tous droits réservés.
+
+1. Ce qui est permis, gratuitement
+   - utiliser l'application, en ligne ou installée sur un appareil, pour apprendre, pour enseigner
+     en classe ou pour suivre la scolarité d'un enfant ;
+   - imprimer les fiches, les examens et la fiche parents pour ce même usage ;
+   - partager le lien du site officiel ;
+   - transmettre le fichier NON MODIFIÉ à des élèves ou à des collègues, sans contrepartie,
+     pour un usage pédagogique, en conservant toutes les mentions d'auteur.
+
+2. Ce qui est interdit sans autorisation écrite de l'auteur
+   - copier tout ou partie du code ou du contenu original de l'application (générateurs d'exercices,
+     corrigés, animations, textes, icônes) pour l'intégrer ou le publier ailleurs ;
+   - modifier l'application ou en créer une version dérivée ;
+   - la publier sur un autre site, dans un magasin d'applications ou sur une plateforme ;
+   - tout usage commercial (vente, accès payant, publicité) ;
+   - retirer ou modifier les mentions d'auteur.
+
+3. Contenu du manuel scolaire
+   Les exercices, définitions et pages du manuel scolaire cités par leur numéro de page
+   (منشورات الشهاب) restent la propriété de leurs auteurs et de leur éditeur. La présente licence
+   ne porte que sur le travail original de l'auteur de l'application.
+
+4. Fondement
+   Droit d'auteur : en France, article L112-2, 13° du Code de la propriété intellectuelle ;
+   en Algérie, ordonnance n° 03-05 du 19 juillet 2003 relative aux droits d'auteur et aux droits voisins.
+
+5. Demande d'autorisation : contacter l'auteur par son profil GitHub.
+
+------------------------------------------------------------------------------------------
+
+رخصة — جميع الحقوق محفوظة
+© 2026 — مؤلّف التطبيق، صاحب حساب GitHub الذي ينشر هذا المستودع.
+
+١. المسموح به مجّانا: استعمال التطبيق للتعلّم أو للتدريس في القسم أو لمتابعة الأبناء؛ طباعة البطاقات
+   والاختبارات وورقة الأولياء لهذا الغرض؛ مشاركة رابط الموقع الرسمي؛ إعطاء الملفّ دون أيّ تعديل
+   للتلاميذ أو الزملاء مجّانا لغرض تربوي مع الإبقاء على اسم المؤلّف.
+٢. الممنوع دون إذن كتابي من المؤلّف: نسخ الشيفرة أو المحتوى الأصلي كلّه أو بعضه لنشره في مكان آخر؛
+   تعديل التطبيق أو إنشاء نسخة مشتقّة منه؛ نشره في موقع آخر أو متجر تطبيقات؛ كلّ استعمال تجاري؛
+   حذف اسم المؤلّف أو تغييره.
+٣. محتوى الكتاب المدرسي المشار إليه بأرقام الصفحات حقوقه لمؤلّفيه وناشره.
